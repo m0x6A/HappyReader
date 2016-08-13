@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subscriptions>
+    <feed>
+        <title>SVD</title>
+        <link>http://www.svd.se/?service=rss</link>
+    </feed>
+    <feed>
+        <title>DN</title>
+        <link>http://www.dn.se/toppnyheter-rss</link>
+    </feed>
+    <feed>
+        <title>Umeå universitet - nyheter</title>
+        <link>http://www.umu.se/rss/nyheter.rss</link>
+    </feed>
+    <feed>
+        <title>Infotech Umeå</title>
+        <link>http://www.infotechumea.se/rss-nyheter</link>
+    </feed>
+</subscriptions>
